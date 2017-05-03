@@ -1,0 +1,11 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="e:\medium\xamrinforms\appclass\appclass\appclass.winphone\obj\debug\intermediatexaml\appclass.winphone.exe" HashGuid="3c321f67-9eab-9c9b-6e7e-bb90addff0f9" />
+    <ReferenceAssembly PathName="e:\medium\xamrinforms\appclass\appclass\appclass\bin\debug\appclass.dll" HashGuid="58702840-02db-47e9-1579-fa6e99637a08" />
+    <ReferenceAssembly PathName="e:\medium\xamrinforms\appclass\packages\xamarin.forms.2.3.5.235-pre2\lib\wpa81\xamarin.forms.core.dll" HashGuid="1a69ae99-3518-0dca-bb16-4972e63fb212" />
+    <ReferenceAssembly PathName="e:\medium\xamrinforms\appclass\packages\xamarin.forms.2.3.5.235-pre2\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="e:\medium\xamrinforms\appclass\packages\xamarin.forms.2.3.5.235-pre2\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="cb71eda0-05db-e4ab-8c72-447bf4f3483e" />
+    <ReferenceAssembly PathName="e:\medium\xamrinforms\appclass\packages\xamarin.forms.2.3.5.235-pre2\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="53a9e4af-538e-1bae-ce9d-4c138447fb3a" />
+    <ReferenceAssembly PathName="e:\medium\xamrinforms\appclass\packages\xamarin.forms.2.3.5.235-pre2\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="6cb15c43-0564-81b8-7bda-e200af3b830e" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

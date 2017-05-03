@@ -1,0 +1,2 @@
+E:\Medium\XamrinForms\Appclass\Appclass\Appclass.WinPhone\Appclass.WinPhone.csproj;neutral
+E:\Medium\XamrinForms\Appclass\Appclass\Appclass\Appclass.csproj;neutral
